@@ -1,0 +1,5 @@
+public class MyLink 
+    Node head = null;//头结点
+    class Node {
+       Node next = null//节点的引用，指向下一个节点
+       
